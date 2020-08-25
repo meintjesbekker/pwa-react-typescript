@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <p>
-          This is going to be your PWA!
+          This is going to be your PWA! Make a change to see if it works.
         </p>
         <a
           className="App-link"
